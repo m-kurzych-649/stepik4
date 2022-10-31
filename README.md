@@ -16,7 +16,7 @@
 	2. Pilniczek włochatek
 	3. Rozciągnik mchuś
 2. Wirki
-3. Minogi
+3. Lancetniki
 	- nie mają czaszek :O
 
 ```py
