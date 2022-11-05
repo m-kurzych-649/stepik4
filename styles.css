@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid;
+}
+th {
+    border: 2px solid;
+    background-color: LightGray;
+  }
+td {
+    text-align: center;
+    vertical-align: middle;
+    border: 2px solid;
+}
+img {
+    border-radius: 8px;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+}
